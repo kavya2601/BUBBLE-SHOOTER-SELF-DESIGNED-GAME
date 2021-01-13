@@ -1,1 +1,2 @@
-# BUBBLE-SHOOTER-SELF-DESIGNED-GAME
+# Bubbles()
+A minimal shooting game written in JavaScript
